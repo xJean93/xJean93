@@ -1,7 +1,7 @@
 <h1 align = "center"> Oi 👋, eu sou Jean Carlos Javorivski </h1>
 <h3 align = "center"> Sou apaixonado por Análise e visualização de dados no mundo digital. </h3>
 
-- 🔭 Atualmente estou trabalhando em um projeto de banco de dados própio para ganhar experiência. Após, irei me aprofundar em Power BI. ** Banco de Dados - Empresa. **
+- 🔭 Atualmente estou trabalhando em um projeto de banco de dados próprio para ganhar experiência. Após, irei me aprofundar em Power BI. ** Banco de Dados - Empresa. **
 
 - 🌱 Atualmente estou aprendendo sobre ** Banco de dados, Power BI, Python. **
 
