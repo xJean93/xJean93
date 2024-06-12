@@ -1,17 +1,13 @@
-<h1 align = "center"> Oi 👋, eu sou Jean Carlos Javorivski </h1>
-<h3 align = "center"> Sou apaixonado por Análise e visualização de dados no mundo digital. </h3>
+<h1 align = "center"> Hello 👋, I'm Jean Carlos Javorivski </h1>
+<h3 align = "center"> I'm passionate Data and B.I world! </h3>
 
-- 🔭 Atualmente estou trabalhando em um projeto de banco de dados próprio para ganhar experiência. Após, irei me aprofundar em Power BI. ** Banco de Dados - Empresa. **
+- 🔭 Currently, i'm working with B.I analyst at CV CRM, the company have a CRM focused on real state market **
 
-- 🌱 Atualmente estou aprendendo sobre ** Banco de dados, Power BI, Python. **
+- 🌱 I've knowledge in B.I tools like Power B.I and Looker studio, and strong knowledge with SQL and i keep inproving my analysis with DAX  **
 
-- 💬 Me pergunte sobre ** SQL Server, MySQL, Power BI. **
+- 📫 If you wanto to find me, my e-mail is **jeean6661@gmail.com**
 
-- 📫 Você me encontra através do e-mail **jeean6661@gmail.com**
-
-- Você pode me encontrar em [https://www.linkedin.com/in/jean-carlos-javorivski-55a99a1b1/](https://www. linkedin.com/in/jean-carlos-javorivski-55a99a1b1/)
-
-<h3 align = "left"> Conecte-se a mim: </h3>
+- My LinkedIn Profile: [https://www.linkedin.com/in/jean-carlos-javorivski-55a99a1b1/](https://www. linkedin.com/in/jean-carlos-javorivski-55a99a1b1/)
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jean-carlos-javorivski-55a99a1b1/" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "https: //www.linkedin .com / in / jean-carlos-javorivski-55a99a1b1 / "height =" 30 "width =" 40 "/> </a>
 <a href =" https://fb.com/https://www.facebook .com / jeancarlos.javorivski "target =" blank "> <img align =" center "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/facebook.svg "alt =" https://www.facebook.com/jeancarlos.javorivski "height =" 30 "largura =" 40 "/> </a>
